@@ -1,0 +1,2 @@
+human('hassan').
+human('hala').
